@@ -1,4 +1,5 @@
 # CXZtestSepecDome
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/hadisi0/CXZtestSepecDome.svg?style=flat)](https://travis-ci.org/hadisi0/CXZtestSepecDome)
 [![Version](https://img.shields.io/cocoapods/v/CXZtestSepecDome.svg?style=flat)](http://cocoapods.org/pods/CXZtestSepecDome)
@@ -27,3 +28,6 @@ hadisi0, 1245068119@qq.com
 ## License
 
 CXZtestSepecDome is available under the MIT license. See the LICENSE file for more info.
+=======
+CXZdome
+>>>>>>> 5b1d77664241fe7ed8399a60d1f308213a22d5b4
