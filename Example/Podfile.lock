@@ -24,7 +24,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  CXZtestSepecDome: a1cdc94bfa8ac46048f5671ab77fd8fc85223c07
+  CXZtestSepecDome: 97a72c2214503093e39edb5dda375e5eb9c0f1d3
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   Expecta+Snapshots: dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a

@@ -5,11 +5,10 @@
 # Any lines starting with a # are optional, but their use is encouraged
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
-
 Pod::Spec.new do |s|
   s.name             = 'CXZtestSepecDome'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CXZtestSepecDome.'
+  s.summary          = '我的一个测'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: 是一个用于保存一些常用工具类的工具
                        DESC
 
   s.homepage         = 'https://github.com/hadisi0/CXZtestSepecDome'
@@ -30,13 +29,15 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CXZtestSepecDome/Classes/**/*'
+ s.source_files = 'CXZtestSepecDome/Classes/**/*'
   
   # s.resource_bundles = {
   #   'CXZtestSepecDome' => ['CXZtestSepecDome/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+# s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
+
+
